@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a junior majoring in Data Science at the University of Michigan, currently part of the SLED lab. I recently embarked on my research journey, diving into vision-language models and pragmatic generation—how AI can communicate as naturally and effectively as humans.
+Hi! My name is Jing Ding (丁婧 in Chinese). I'm a junior majoring in Data Science at the University of Michigan, currently part of the SLED lab. I recently embarked on my research journey, diving into vision-language models and pragmatic generation—how AI can communicate as naturally and effectively as humans.
 Before coming to Michigan, I studied at Huazhong University of Science and Technology.
 
 Always excited to connect, collaborate, and share ideas—feel free to reach out!
@@ -68,3 +68,24 @@ TL;DR: We show significant pragmatic deficiencies in current VLMs when faced wit
 
 # 💻 Internships
 - *2024.07 - 2024.08*, [iSURE Program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096), University of Notre Dame, USA
+
+
+# 🌎 Visitor Map
+
+<!-- <div style="text-align: center;">
+<a href="https://clustrmaps.com/site/1c5qf" title="Visitor Map">
+<img src="//www.clustrmaps.com/map_v2.png?d=gov71rQBOFG2n-_HK1KakEaRSO5h1g5F1-9iKow6oG8&cl=ffffff" 
+     style="width: 80%; max-width: 300px; height: auto; border: none;">
+</a>
+</div> -->
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=gov71rQBOFG2n-_HK1KakEaRSO5h1g5F1-9iKow6oG8&co=aacee8&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+
+
+<hr style="margin-top: 4em; opacity: 0.3;">
+<small style="display: block; text-align: center; color: #888;">
+© 2025 Jing Ding
+<br>
+<br>
+</small>
