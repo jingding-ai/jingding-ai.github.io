@@ -34,7 +34,14 @@ Always excited to connect, collaborate, and share ideas—feel free to reach out
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pubs/PixRefer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation</strong>
-<em>GEM@ACL 2025; Spotlight at CVinW@CVPR 2025</em>
+
+
+<em>
+  <a href="https://gem-benchmark.com/workshop" target="_blank">GEM@ACL 2025</a>; 
+  Spotlight at 
+  <a href="https://computer-vision-in-the-wild.github.io/cvpr-2025/" target="_blank">CVinW@CVPR 2025</a>
+</em>
+
 
 
 Ziqiao Ma*,  <strong>Jing Ding*</strong>,  Xuejun Zhang,  Dezhi Luo,  Jiahe Ding,
