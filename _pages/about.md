@@ -24,8 +24,9 @@ Always excited to connect, collaborate, and share ideas—feel free to reach out
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Heading to NAACL 2025 — hope to see you there!
-- *2025.04*: &nbsp;🎉🎉 Glad to presented at the first CSE Undergraduate Research Symposium!
+- *2025.06*: &nbsp; Our paper *"Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation"* was accepted to **GEM@ACL 2025** and selected as a **Spotlight** at **CVinW@CVPR 2025**! See you in Nashville!
+- *2025.05*: &nbsp; Heading to NAACL 2025 — hope to see you there!
+- *2025.04*: &nbsp; Glad to presented at the first CSE Undergraduate Research Symposium!
 - *2025.04*: &nbsp;🎉🎉 Our work "Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation" is on arXiv!
 
 # 📝 Publications 
@@ -33,6 +34,7 @@ Always excited to connect, collaborate, and share ideas—feel free to reach out
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pubs/PixRefer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation</strong>
+<em>GEM@ACL 2025; Spotlight at CVinW@CVPR 2025</em>
 
 
 Ziqiao Ma*,  <strong>Jing Ding*</strong>,  Xuejun Zhang,  Dezhi Luo,  Jiahe Ding,
