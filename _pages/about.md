@@ -24,6 +24,7 @@ Always excited to connect, collaborate, and share ideas—feel free to reach out
 
 
 # 🔥 News
+- *2025.07*: &nbsp; *"Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation"* was accepted to **COLM 2025**! See you in Montreal!
 - *2025.06*: &nbsp; Our paper *"Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation"* was accepted to **GEM@ACL 2025** and selected as a **Spotlight** at **CVinW@CVPR 2025**! See you in Nashville!
 - *2025.05*: &nbsp; Heading to NAACL 2025 — hope to see you there!
 - *2025.04*: &nbsp; Glad to presented at the first CSE Undergraduate Research Symposium!
