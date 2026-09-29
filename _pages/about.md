@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jing Ding (丁婧 in Chinese). I'm a junior majoring in Data Science at the University of Michigan, currently part of the SLED lab. I recently embarked on my research journey, diving into vision-language models and pragmatic generation—how AI can communicate as naturally and effectively as humans.
+Hi! My name is Jing Ding (丁婧 in Chinese). I'm a senior undergraduate student majoring in Data Science and Mathematics at the University of Michigan, where I am part of the SLED Lab. My research broadly focuses on multimodal AI, particularly vision-language models, interpretability, and embodied AI. I am also interested in cognitive science and psycholinguistics.
 Before coming to Michigan, I studied at Huazhong University of Science and Technology.
 
 Always excited to connect, collaborate, and share ideas—feel free to reach out!
@@ -109,7 +109,7 @@ TL;DR: We show significant pragmatic deficiencies in current VLMs when faced wit
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2025.01 - 2026.12 (now)*, Data Science, LSA, University of Michigan, Ann Arbor
+- *2025.01 - 2026.12 (now)*, Honor Data Science & Mathematics, LSA, University of Michigan, Ann Arbor
 - *2022.09 - 2024.06*, Electronic Information and Engineering, School of Electronic Information and Communications, Huazhong University of Science and Technology 
 
 
