@@ -24,6 +24,9 @@ Always excited to connect, collaborate, and share ideas—feel free to reach out
 
 
 # 🔥 News
+- *2026.09*: &nbsp; Heading to IROS 2026 - see you in Pittsburgh!
+- *2026.09*: &nbsp; *"SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership"* was accepted to **LSEI@COLM 2026** and selected as a lightening talk!
+- *2026.08*: &nbsp; *"Metonymic Circuits for Abstract Concept Grounding in Vision Transformers"* was accepted to **EMNLP 2026** as a main conference paper! See you online!
 - *2025.07*: &nbsp; *"Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation"* was accepted to **COLM 2025**! See you in Montreal!
 - *2025.06*: &nbsp; Our paper *"Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation"* was accepted to **GEM@ACL 2025** and selected as a **Spotlight** at **CVinW@CVPR 2025**! See you in Nashville!
 - *2025.05*: &nbsp; Heading to NAACL 2025 — hope to see you there!
@@ -31,6 +34,44 @@ Always excited to connect, collaborate, and share ideas—feel free to reach out
 - *2025.04*: &nbsp;🎉🎉 Our work "Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation" is on arXiv!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/pubs/metonymic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong>Metonymic Circuits for Abstract Concept Grounding in Vision Transformers</strong>
+
+<strong>Jing Ding</strong>, Ziqiao Ma, Jiayuan Mao, Joyce Chai, Freda Shi
+
+TL;DR: Using Transcoder-based circuit tracing on a curated icon dataset, we show that vision transformers ground abstract concepts through causally important concrete visual anchors.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pubs/simlife.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong>SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership
+
+<em>
+  Lightening talk at 
+  <a href="https://learning-situated-interaction.github.io/" target="_blank">LSEI@COLM 2026</a>
+</em>
+
+
+Run Peng, Zinnia Nie, <strong>Jing Ding</strong>, Yinpei Dai, Yichi Zhang, Zengqing Wu, Yao Fu, Ziqiao Ma, Jiayuan Mao, Joyce Chai
+
+
+[Paper](https://arxiv.org/abs/2609.19610) 
+|
+[Homepage](https://roihn.github.io/SimLife)
+|
+[Code](https://github.com/Roihn/SimLife)
+
+
+TL;DR: We study how AI models understand patterns through ultra-long term observations.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/pubs/PixRefer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
