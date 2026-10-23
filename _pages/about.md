@@ -41,6 +41,10 @@ Always excited to connect, collaborate, and share ideas—feel free to reach out
 
 <strong>Jing Ding</strong>, Ziqiao Ma, Jiayuan Mao, Joyce Chai, Freda Shi
 
+[Paper](https://arxiv.org/abs/2610.06928) 
+|
+[Homepage](https://jingjingjing-ding.github.io/metonymic-circuits/)
+
 TL;DR: Using Transcoder-based circuit tracing on a curated icon dataset, we show that vision transformers ground abstract concepts through causally important concrete visual anchors.
 
 </div>
